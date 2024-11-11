@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Showrav Barua. 
 - 👀 I’m interested in web programming. 
-- 🌱 I’m currently learning laravel & react. 
+- 🌱 I’m currently learning laravel & vue. 
 - 💞️ I’m looking to collaborate on software farm. 
 - 📫 How to reach me - mail me at showravbarua4@gmail.com 
 
